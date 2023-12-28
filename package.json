@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.5.1",
     "bootstrap": "^5.3.2",
+    "env-cmd": "^10.1.0",
     "framer-motion": "^10.16.16",
     "lord-icon-element": "^4.1.2",
     "lottie-web": "^5.12.2",
@@ -49,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-syntax-dynamic-import": "^7.8.3"
   }
 }
